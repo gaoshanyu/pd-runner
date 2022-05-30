@@ -12,7 +12,7 @@ set -e
 ### CUSTOM VARIABLES
 ###
 
-bundleIdentifierApplication="com.lihaoyun6.PD-Runner"
+bundleIdentifierApplication="com.lihaoyun6.PD-Runner2"
 bundleIdentifierHelper="com.lihaoyun6.PD-Runner-Helper"
 
 ###

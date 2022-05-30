@@ -12,7 +12,7 @@
 	<string>0.1.12</string>
 	<key>SMAuthorizedClients</key>
 	<array>
-		<string>identifier "com.lihaoyun6.PD-Runner" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: lihaoyun11@gmail.com (RLYLNV942Y)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		<string>identifier "com.lihaoyun6.PD-Runner2" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: tider.bround@icloud.com (Z5W4Z9Z674)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 	</array>
 </dict>
 </plist>

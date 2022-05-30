@@ -88,6 +88,8 @@
 		53C6B95921676219001A80FD /* CodesignCheck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodesignCheck.swift; sourceTree = "<group>"; };
 		53EE3960215E3068007310F5 /* HelperAuthorization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperAuthorization.swift; sourceTree = "<group>"; };
 		53EE3964215E3A85007310F5 /* HelperAuthorizationRight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperAuthorizationRight.swift; sourceTree = "<group>"; };
+		843105102844A21D00335F52 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; name = .gitignore; path = ../.gitignore; sourceTree = "<group>"; };
+		843105112844A24200335F52 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,8 @@
 		53604BFA215E12F300071149 = {
 			isa = PBXGroup;
 			children = (
+				843105102844A21D00335F52 /* .gitignore */,
+				843105112844A24200335F52 /* README.md */,
 				7175B5F925222886001A60EA /* Share */,
 				53604C05215E12F300071149 /* PD Runner */,
 				53604C19215E131E00071149 /* PD Runner Helper */,
@@ -512,7 +516,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = L4T783637F;
+				DEVELOPMENT_TEAM = 6B774R33DW;
 				INFOPLIST_FILE = "$(SRCROOT)/PD Runner/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -520,7 +524,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 0.1.12;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lihaoyun6.PD-Runner";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lihaoyun6.PD-Runner2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -534,7 +538,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = L4T783637F;
+				DEVELOPMENT_TEAM = 6B774R33DW;
 				INFOPLIST_FILE = "$(SRCROOT)/PD Runner/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -542,7 +546,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 0.1.12;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lihaoyun6.PD-Runner";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lihaoyun6.PD-Runner2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -554,7 +558,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L4T783637F;
+				DEVELOPMENT_TEAM = 6B774R33DW;
 				GENERATE_PKGINFO_FILE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/PD Runner Helper/Helper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
@@ -582,7 +586,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L4T783637F;
+				DEVELOPMENT_TEAM = 6B774R33DW;
 				GENERATE_PKGINFO_FILE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/PD Runner Helper/Helper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
